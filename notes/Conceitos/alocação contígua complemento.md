@@ -1,0 +1,8 @@
+- **Definição**: Neste método, cada arquivo ocupa um conjunto de blocos contíguos no disco. Assim, o número de operações para acessar os arquivos que foram alocados contiguamente é mínimo.
+- **Como funciona?**: Quando um arquivo é salvo, ele ocupa um espaço contínuo, como um livro em uma estante.
+- **Características**:
+    - Armazena arquivos em blocos adjacentes no disco.
+    - Arquivos não são deletados do disco.
+    - O tamanho dos arquivos é fixo.
+- **Vantagens**: Acesso rápido, pois o cabeçote de leitura não precisa se mover muito.
+- **Desvantagens**: Dificuldade em encontrar espaço livre conforme o disco é fragmentado, o que pode levar a desperdício de espaço.
