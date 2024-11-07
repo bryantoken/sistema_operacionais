@@ -1,0 +1,14 @@
+- Gerenciamento de dispositivos (input/output)
+- Gerenciamento de arquivos e diretórios (filesystems)
+- Gerenciamento de processos 
+	- (criar, agendar e encerrar processos)
+	- otimizar a memória primária
+	- memória virtual, SWAP
+	- ilusão de paralelismo do usuário
+- Gerenciamento de memória
+	- Gerenciar as alocações e desalocações de endereços de memória
+	- Memória principal <-> CPU
+- Gerenciamento de segurança
+	- Entrada e saída do sistema, do ponto de vista de REDES
+	- Firewall
+
