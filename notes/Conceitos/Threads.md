@@ -22,3 +22,5 @@ Conceitos
 
 
 Prioridade é definida pelo kernel
+
+[[kernel]]

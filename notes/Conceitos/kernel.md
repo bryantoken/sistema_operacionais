@@ -24,4 +24,6 @@ Computação é uma ciência poética, de certa forma uma singularidade, cheia d
 
 > [!info] Key components of computing
 
+Kernel ele orquestra!
 
+[[5 gerenciamentos de um SO]]
