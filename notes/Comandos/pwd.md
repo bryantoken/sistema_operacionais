@@ -1,0 +1,4 @@
+### ver caminho atual
+```
+pwd
+```

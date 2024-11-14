@@ -1,0 +1,1 @@
+Ambas são memórias temporarias, mas **uma é destinada ao processamento([[Cache]]) e outra para transferência([[Buffer]])**
